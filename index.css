@@ -61,7 +61,7 @@
   }
 
   .buttonhero1:hover {
-    background-color: black;
+    background-color: purple;
     color:white;
     transform: scale(1.1);
   }
